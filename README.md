@@ -1,7 +1,6 @@
 # Projet de Comparaison d'Éléments avec YOLO et OCR (Optical Character Recognition)
 
-![Nom de l'image](ET Vision.png)
-
+![ET Vision](https://github.com/thomaseude3/ET-Vision/assets/128392497/235b0bd5-3d23-4781-b877-e60d6d3d1cff)
 
 ## Description
 Ce projet consiste en plusieurs scripts Python permettant de réaliser des comparaisons entre deux éléments en utilisant les technologies YOLO (You Only Look Once) et OCR (Optical Character Recognition) avec PyTesseract. L'acquisition d'images est effectuée à l'aide d'une caméra Basler, tandis que l'interface utilisateur est développée en utilisant PyQt6.
